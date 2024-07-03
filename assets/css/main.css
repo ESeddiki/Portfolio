@@ -2023,6 +2023,10 @@ input, select, textarea {
 			.wrapper.style2 .title {
 				background: #fff;
 				color: #1b31a1;
+				
+
+
+				
 			}
 
 		.wrapper.style3 {
@@ -2037,6 +2041,21 @@ input, select, textarea {
 			.wrapper.style3 .image {
 				border: solid 10px #fff;
 			}
+
+
+			.wrapper.style4 {
+				background: #ffffff 
+			}
+	
+				.wrapper.style4 .title {
+					background: #c6ecf5  ;
+					color: #d7e1f8;
+				}
+	
+				.wrapper.style4 .image {
+					border: solid 10px #f8eaeab0;
+				}
+
 
 /* Page Wrapper */
 
@@ -2267,6 +2286,12 @@ input, select, textarea {
 			letter-spacing: 0.05em;
 		}
 
+		#highlights .highlight h4 {
+			color: rgb(159, 10, 213);
+			margin: 0 0 0.75em 0;
+			font-size: 1.15em;
+			letter-spacing: 0.05em;
+		}
 /* Main */
 
 /* Footer */
